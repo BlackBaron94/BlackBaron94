@@ -1,4 +1,4 @@
-<body oncontextmenu="return false;">
+<body onlick="return false;">
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/">Giorgos Tsolakidis</a>, a junior software developer.
 - 👀 My main interests are improving through expansion of knowledge and adaptive problem solving.
 - 🌱 I’m currently a Computer Science student @<a href="https://www.eap.gr/en/undergraduate/computer-science/">Hellenic Open University</a>.

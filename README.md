@@ -15,6 +15,6 @@
 <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" title="SciKitLearn" alt="SciKitLearn" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" title="C" alt="C" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://cdn-icons-png.flaticon.com/512/81/81513.png" title="SQL Browser" alt="SQL Browser" width="40" height="40" style="max-width: 100%;">&nbsp</img>
-<div style="background-image:url(https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png); width:40; height:40;" title="Git" alt="Git" style="max-width: 100%;">&nbsp</div> 
+<div style="background-image:url(https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png); width:40; height:40;"  title="Git" alt="Git" style="max-width: 100%;">&nbsp</div> 
 </p>
 </div>

@@ -4,7 +4,7 @@
 - <span>&#128231;</span> Contact me through <a href="mailto:black_baron94@hotmail.com" target="_blank">Email</a> or <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/">LinkedIn</a>
 <hr/>
 <h2>Technical Skills</h2>
-<div oncontextmenu="return false" dir=auto>
+<div oncontextmenu="return false;" dir=auto>
 <p dir=auto>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" title="SQLite3" alt="SQLite3" width="40" height="40" style="max-width: 100%;">&nbsp</img>

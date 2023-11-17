@@ -1,4 +1,3 @@
-<body onlick="return false;">
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/">Giorgos Tsolakidis</a>, a junior software developer.
 - 👀 My main interests are improving through expansion of knowledge and adaptive problem solving.
 - 🌱 I’m currently a Computer Science student @<a href="https://www.eap.gr/en/undergraduate/computer-science/">Hellenic Open University</a>.
@@ -16,7 +15,6 @@
 <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" title="SciKitLearn" alt="SciKitLearn" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" title="C" alt="C" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://cdn-icons-png.flaticon.com/512/81/81513.png" title="SQL Browser" alt="SQL Browser" width="40" height="40" style="max-width: 100%;">&nbsp</img>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">&nbsp</img> 
+<div style="background-image:url(https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png); width:40; height:40;" title="Git" alt="Git" style="max-width: 100%;">&nbsp</div> 
 </p>
 </div>
-</body>

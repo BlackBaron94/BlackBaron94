@@ -1,5 +1,5 @@
-- 👋 Hi, I’m <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/">Giorgos Tsolakidis</a>, a junior software developer.
-- 👀 My main interests are improving through expansion of knowledge and adaptive problem solving.
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/">Giorgos Tsolakidis</a>, a software developer with a focus on Python and SQL.
+- 👀 My main interests are improving through expansion of knowledge and adaptive problem solving. 
 - 🌱 I’m currently a Computer Science student @<a href="https://www.eap.gr/en/undergraduate/computer-science/">Hellenic Open University</a>.
 - <span>&#128231;</span> Contact me through <a href="mailto:black_baron94@hotmail.com" target="_blank">Email</a> or <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/">LinkedIn</a>
 <hr/>
@@ -12,9 +12,11 @@
 <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" title="Numpy" alt="Numpy" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" title="Matplotlib" alt="Matplotlib" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://static.javatpoint.com/python/images/tkinter-tutorial.png" title="TKinter" alt="TKinter" width="40" height="40" style="max-width: 100%;">&nbsp</img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Qt_logo_2013.svg" title="Qt" alt="Qt" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" title="SciKitLearn" alt="SciKitLearn" width="40" height="40" style="max-width: 100%;">&nbsp</img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" title="C" alt="C" width="40" height="40" style="max-width: 100%;">&nbsp</img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://cdn-icons-png.flaticon.com/512/81/81513.png" title="SQL Browser" alt="SQL Browser" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">&nbsp</img>
+<img src="https://user-images.githubusercontent.com/5418178/175823761-ee7996b9-57be-4abf-be93-0ad25e7f37f0.png" title="RegEx" alt="RegEx" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 </p>
 </div>

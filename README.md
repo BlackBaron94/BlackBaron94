@@ -9,7 +9,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png" title="Java" alt="Java" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="40" height="40" style="max-width: 100%;">&nbsp</img>
-<img src="https://e7.pngegg.com/pngimages/525/959/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark.png" title="SQL" alt="SQL" width="40" height="40" style="max-width: 100%;">&nbsp</img>
+<img src="https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp" title="SQL" alt="SQL" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" title="TKinter" alt="TKinter" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Qt_logo_2013.svg" title="Qt" alt="Qt" width="40" height="40" style="max-width: 100%;">&nbsp</img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" title="SQLite3" alt="SQLite3" width="40" height="40" style="max-width: 100%;">&nbsp</img>

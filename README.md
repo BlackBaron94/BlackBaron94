@@ -22,6 +22,5 @@
       <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" title="Pydantic" alt="Pydantic" width="40" height="40" style="max-width: 100%;">&nbsp</img>
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">&nbsp</img>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png" title="Java" alt="Java" width="40" height="40" style="max-width: 100%;">&nbsp</img>
-      <img src="https://user-images.githubusercontent.com/5418178/175823761-ee7996b9-57be-4abf-be93-0ad25e7f37f0.png" title="RegEx" alt="RegEx" width="40" height="40" style="max-width: 100%;">&nbsp</img> 
     </p>
 </div>

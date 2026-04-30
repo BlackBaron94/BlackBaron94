@@ -1,7 +1,8 @@
-- 👋 Hi, I’m <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/">Giorgos Tsolakidis</a>, a software developer with a focus on Python and HTML/CSS/JavaScript.
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/" target="blank">Giorgos Tsolakidis</a>, a software developer with a focus on Python and HTML/CSS/JavaScript.
 - 👀 My main interests are improving through expansion of knowledge and adaptive problem solving. 
-- 🌱 I’m currently a Computer Science student @<a href="https://www.eap.gr/en/undergraduate/computer-science/">Hellenic Open University</a>.
-- <span>&#128231;</span> Contact me through <a href="mailto:black_baron94@hotmail.com" target="_blank">Email</a> or <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/">LinkedIn</a>
+- 🌱 I’m currently a Computer Science student @<a href="https://www.eap.gr/en/undergraduate/computer-science/" target="blank">Hellenic Open University</a>.
+- 💼 Working as a Django Full Stack Developer at <a href="https://proset.gr/" target="blank">Proset</a>
+- <span>&#128231;</span> Contact me through <a href="mailto:black_baron94@hotmail.com" target="blank">Email</a> or <a href="https://www.linkedin.com/in/giorgos-tsolakidis-130266155/" target="blank">LinkedIn</a>
 <hr/>
   <h2>Technical Skills</h2>
 

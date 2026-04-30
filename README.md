@@ -14,10 +14,12 @@
     <td align="center" width="70"><img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo-thumbnail.png" title="SQL" alt="SQL" width="40" height="40"></td>
     <td align="center" width="70"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png?_=20170517184425" title="HTML" alt="HTML" width="40" height="40"></td>
     <td align="center" width="70"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png?_=20250115194431" title="CSS" alt="CSS" width="40" height="40"></td>
+    <td align="center" width="70"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png?_=20210507000024" title="BootStrap" alt="BootStrap" width="40" height="40"></td>
     <td align="center" width="70"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"></td>
     <td align="center" width="100"><img src="https://img.shields.io/badge/-009688?logo=fastapi&logoColor=white&style=plastic" title="FastAPI" alt="FastAPI" width="40" height="40"></td>
   </tr>
   <tr>
+    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/960px-Vue.js_Logo_2.svg.png?_=20170919082558" title="Vue.js" alt="Vue.js" width="40" height="40"></td>
     <td align="center" width="100"><img src="https://img.shields.io/badge/-3670A0?logo=pytest&logoColor=white&style=plastic" title="Pytest" alt="Pytest" width="40" height="40"></td>
     <td align="center" width="110"><img src="https://img.shields.io/badge/-2088FF?logo=githubactions&logoColor=white&style=plastic" title="GitHubActions" alt="GitHubActions" width="50" height="40"></td>
     <td align="center" width="70"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Qt_logo_2013.svg" title="Qt" alt="Qt" width="40" height="40"></td>
